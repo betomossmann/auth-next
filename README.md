@@ -35,7 +35,7 @@ Key Features:
 
 ### Prerequisites
 
-\*\*Node version 20.10.0
+- Node version 20.10.0
 
 ### Cloning the repository
 
